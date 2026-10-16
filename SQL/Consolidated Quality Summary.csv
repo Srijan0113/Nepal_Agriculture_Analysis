@@ -1,0 +1,5 @@
+"table_name","issue","affected_rows"
+"cereal_production_by_province","Missing production_mt","1"
+"livestock_products_yearly","Missing value","1"
+"pulses_yearly","Missing area, production or yield","9"
+"agriculture_gdp_commodity_contribution","Exact duplicate records beyond first occurrence","1"
