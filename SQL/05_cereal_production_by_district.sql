@@ -68,3 +68,4 @@ GROUP BY
 ORDER BY
     province,
     avg_yield_mt_per_ha DESC;
+    
