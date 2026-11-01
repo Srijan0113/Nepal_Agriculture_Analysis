@@ -393,6 +393,101 @@ This approach keeps the original imported data intact while providing a filtered
 
 ---
 
+## Key Findings – Nepal Agriculture Analytics
+
+### 1. Overall Crop Production Analysis
+
+- Paddy was the highest-producing cereal crop, with total production of 58.55 million MT.
+- Maize ranked second with approximately 24.33 million MT.
+- Wheat followed with approximately 18.19 million MT.
+- Millet contributed approximately 2.53 million MT, while barley and buckwheat had comparatively lower production.
+- Paddy, maize and wheat account for the majority of recorded cereal production.
+
+### 2. Province-wise Cereal Production
+
+- Koshi recorded the highest cereal production at 2.86 million MT.
+- Lumbini ranked second with 2.44 million MT, followed by Madhesh with 2.38 million MT.
+- Karnali had the lowest production at 542,030 MT.
+- Cereal production is concentrated in Koshi, Lumbini and Madhesh.
+
+### 3. Highest-Producing Cereal Crop by Province
+
+- Maize leads cereal production in Bagmati, Gandaki and Karnali.
+- Paddy is the leading crop in Koshi, Lumbini and Sudurpashchim.
+- Buckwheat is the highest-producing cereal in Madhesh.
+- These results highlight differences in regional cereal production patterns.
+
+### 4. District-wise Cereal Production
+
+- Jhapa is the highest-producing district with 851,817 MT.
+- Morang ranks second with 624,581 MT, followed by Kailali with 475,143 MT.
+- Cereal production varies considerably across districts.
+
+### 5. Major Cash Crop Production
+
+- Sugarcane leads with approximately 33.13 million MT.
+- Potato follows closely with 32.16 million MT.
+- Oilseed production stands at approximately 2.61 million MT.
+- Jute and cotton contribute comparatively smaller production volumes.
+
+### 6. Cash Crop Production by Province
+
+- Potato is the leading cash crop in Bagmati, Gandaki, Karnali, Koshi and Lumbini.
+- Sugarcane leads in Madhesh and Sudurpashchim.
+- This highlights regional specialization in cash crop production.
+
+### 7. Pulse Production
+
+- Lentil is the leading pulse crop throughout the observed period.
+- Its production peaked at 262,835 MT in 2019/20 and declined to 141,257 MT in 2024/25.
+- This indicates a substantial recent decline in lentil production.
+
+### 8. Livestock Population
+
+- Fowl is the largest livestock category, contributing 61.90% of total recorded livestock population.
+- Goat contributes 11.89%, followed by laying hens at 11.05%.
+- Fowl remains the dominant category across the observed years.
+- Its population reached a peak in 2019/20 before declining.
+
+### 9. Fruit Production
+
+- Summer fruits account for the largest production share at 68.15%.
+- Citrus fruits contribute 22.04%, while winter fruits contribute 9.82%.
+- Summer fruits remain the leading fruit group, with production increasing over most of the observed period.
+
+### 10. Fresh Vegetable Production
+
+- Fresh vegetable production increased from 3,929,034 MT in 2015/16 to 4,572,267 MT in 2024/25.
+- Production declined by 4.56% in 2016/17 and 7.23% in 2019/20, but increased in most subsequent years.
+- The highest year-on-year growth was 7.91% in 2018/19.
+- Production reached its highest recorded level in 2024/25.
+
+### 11. Fresh Vegetable Production by Province
+
+- Madhesh was the largest vegetable-producing province, contributing 30.31% of total production.
+- Bagmati ranked second with 19.60%, followed by Koshi with 18.18%.
+- Lumbini contributed 14.62%, while Gandaki contributed 7.45%.
+- Sudurpashchim and Karnali contributed 6.53% and 3.31%, respectively.
+- Madhesh produced approximately nine times as much as Karnali.
+
+### 12. Chemical Fertilizer Sales
+
+- Total fertilizer sales increased from 110,013 MT in 2010/11 to 441,305 MT in 2024/25.
+- Sales reached their highest level of 458,318 MT in 2023/24.
+- The sharpest decline occurred in 2021/22, when total sales dropped by 39.91%.
+- Sales recovered significantly in 2022/23 and 2023/24 before declining by 3.71% in 2024/25.
+- Fertilizer growth varied considerably by type, with different patterns for urea, DAP and potash.
+
+### 13. Agriculture GDP Commodity Contribution
+
+- The cleaned dataset contains 78 commodities.
+- Vegetables were the largest individual contributor at 14.47%.
+- Rice Paddy (Not Husked) contributed 12.82%, followed by Forestry Total at 8.71%.
+- Raw Milk of Buffalo contributed 7.69%, while Maize (Corn) contributed 6.64%.
+- Potatoes and wheat contributed 6.56% and 5.88%, respectively.
+- The average commodity contribution was 1.28%, with a standard deviation of 2.73 percentage points.
+- The lowest individual contributions were approximately 0.01%.
+
 ## 9. SQL Concepts and Functions Practised
 
 This project provided practical experience with SQL querying, analytical functions, and data validation.
