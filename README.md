@@ -224,7 +224,7 @@ Python/README.md
 
 ---
 
-# 🐘 SQL Analysis
+#  SQL Analysis
 
 PostgreSQL was used for structured data analysis and validation.
 
@@ -355,11 +355,11 @@ DAX measures were created for KPIs and analytical calculations such as:
 
 ---
 
-# 📊 Dashboard Pages
+#  Dashboard Pages
 
 The Power BI report contains a **Home Page and five analytical pages**.
 
-## 1. 🏠 Home Page
+## 1.  Home Page
 
 Provides an introduction to the project and navigation to the analytical pages.
 
@@ -367,7 +367,7 @@ Provides an introduction to the project and navigation to the analytical pages.
 
 ---
 
-## 2. 🌾 Agriculture Overview
+## 2.  Agriculture Overview
 
 Provides a high-level overview of:
 
@@ -381,7 +381,7 @@ Provides a high-level overview of:
 
 ---
 
-## 3. 🌱 Crop Production Analysis
+## 3.  Crop Production Analysis
 
 Explores:
 
@@ -396,7 +396,7 @@ Explores:
 
 ---
 
-## 4. 🗺️ Provincial & District Analysis
+## 4.  Provincial & District Analysis
 
 Explores:
 
@@ -412,7 +412,7 @@ Explores:
 
 ---
 
-## 5. 🐄 Livestock Analysis
+## 5.  Livestock Analysis
 
 Explores:
 
@@ -426,7 +426,7 @@ Explores:
 
 ---
 
-## 6. 🧪 Fertilizer & GDP Analysis
+## 6.  Fertilizer & GDP Analysis
 
 Explores:
 
@@ -440,7 +440,7 @@ Explores:
 
 ---
 
-# 🔍 Key Insights
+#  Key Insights
 
 The combined analysis produced several important observations.
 
@@ -521,7 +521,7 @@ Data quality was considered throughout the project rather than treating the sour
 
 ---
 
-# ⚠️ Data Limitations
+#  Data Limitations
 
 Several limitations should be considered when interpreting the results.
 
@@ -538,7 +538,7 @@ Several limitations should be considered when interpreting the results.
 
 ---
 
-# 🛠️ Tools & Technologies
+#  Tools & Technologies
 
 | Technology | Purpose |
 |---|---|
@@ -608,7 +608,7 @@ The **root README** provides the overall project story, while each phase README 
 
 ---
 
-# 🔗 Project Architecture
+#  Project Architecture
 
 ```text
                     🇳🇵 Nepal Agriculture Analytics
@@ -639,7 +639,7 @@ The **root README** provides the overall project story, while each phase README 
 
 ---
 
-# 📈 Project Outcomes
+#  Project Outcomes
 
 This project demonstrates an end-to-end data analytics workflow using real agricultural datasets.
 
@@ -664,7 +664,7 @@ The project combines **programmatic analysis, database analysis, and business-or
 
 ---
 
-# 🎓 Skills Demonstrated
+#  Skills Demonstrated
 
 Through this project, the following practical skills were applied:
 
